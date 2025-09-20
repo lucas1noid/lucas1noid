@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Lucas Gabriel!
 
-**Computer Science Student at UFRN**
+**Computer Science Student at Universidade Federal do Rio Grande do Norte**
 
 Welcome to my GitHub profile! I’m Lucas, an aspiring software developer currently studying Computer Science at UFRN. I’m passionate about technology, coding, and always eager to learn new things.
 
 ## 🚀 About Me
-- 🎓 CS student @ UFRN
 - 💻 Main skills: **C** & **C++**
 - 🌱 Enthusiast, always learning and growing
-- 🏀 I like games and basketball
+- 🏀 In my free time I like to play games and basketball
 
 ## 🧑‍💻 Featured Projects
 
