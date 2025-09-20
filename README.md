@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I’m Lucas, an aspiring software developer curren
 - [Projeto_ITP3uni](https://github.com/lucas1noid/Projeto_ITP3uni)
 - [MC1](https://github.com/lucas1noid/MC1)
 - [ITP](https://github.com/lucas1noid/ITP)
+- [gerador-noid](https://github.com/lucas1noid/gerador-noid)
 
 ## 📫 Connect with Me
 
