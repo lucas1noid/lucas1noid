@@ -1,4 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Lucas Gabriel!
+
+**Computer Science Student at UFRN**
+
+Welcome to my GitHub profile! I’m Lucas, an aspiring software developer currently studying Computer Science at UFRN. I’m passionate about technology, coding, and always eager to learn new things.
+
+## 🚀 About Me
+- 🎓 CS student @ UFRN
+- 💻 Main skills: **C** & **C++**
+- 🌱 Enthusiast, always learning and growing
+- 🏀 I like games and basketball
+
+## 🧑‍💻 Featured Projects
+
+- [Projeto Graal (C++)](https://github.com/selan-active-classes/t02-projeto-graal-lucas1noid)
+- [Rectangles (C)](https://github.com/selan-active-classes/a01-rectangles-lucas1noid)
+- [Projeto_ITP3uni](https://github.com/lucas1noid/Projeto_ITP3uni)
+- [MC1](https://github.com/lucas1noid/MC1)
+- [ITP](https://github.com/lucas1noid/ITP)
+
+## 📫 Connect with Me
+
+- Instagram: [@lucasgabriel_noid](https://instagram.com/lucasgabriel_noid)
+
+---
+
+> _Always open to collaborate, learn, and grow!_
 
 <!--
 **lucas1noid/lucas1noid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
