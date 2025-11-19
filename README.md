@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an aspiring software developer, currently stud
 ## 📫 Connect with Me
 
 - Instagram: [@lucasgabriel_noid](https://instagram.com/lucasgabriel_noid)
-
+- Discord: lucas_noid
 ---
 
 > _Always open to collaborate, learn, and grow!_
