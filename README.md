@@ -1,6 +1,6 @@
 <div align="center">
   <img src="content/noid-logo-ani-sf.gif" alt="noid logo" width="320" />
-</div>
+
 
 # Hi, I’m Lucas Lopes!
 
@@ -27,7 +27,7 @@ Passionate about technology and always willing to learn. I enjoy breaking down a
   <img src="./icons/git.svg" alt="git" width="40" height="40" />
   <img src="./icons/linux.svg" alt="pinguim-cacetudo" width="40" height="40" />
 </p>
-
+</div>
 ---
 
 ## 📊 Estatísticas
