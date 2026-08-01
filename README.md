@@ -1,16 +1,13 @@
 <div align="center">
   <img src="content/noid-logo-ani-sf.gif" alt="noid logo" width="320" />
 
-
   # Hi, I’m Lucas Lopes!
 
   **About me...**
 
   Welcome to my GitHub profile! I am an aspiring software developer currently studying Computer Science at DIMAp - UFRN.
 
-  Passionate about technology and always willing to learn. I enjoy breaking down and creating the logic behind algorithms and systems, as well as expressing my creativity; computing is the medium through which I found my calling.
-
-  ---
+  Passionate about technology and always willing to learn. I enjoy breaking down and creating the logic behind algorithms and systems, as well as expressing my creativity; computing is the medium through which I found my    calling.
 
   ## Linguagens e Tecnologias
 
@@ -40,13 +37,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas1noid&theme=tokyonight" alt="GitHub Streak de lucas1noid" />
 
   <br />
-
+  
+  ---
+  
   <img src="content/gif-shingi.gif" alt="eva" width="500" height="167" />
   <br />
   <sub><i>"Even if the world falls apart, we can start over as many times as it takes."</i></sub>
 
   <br />
 
+  ---
 
-  > _Always open to collaborate, learn, and grow!_ < 
+   <p> > Always open to collaborate, learn, and grow! < </p>
 </div>
