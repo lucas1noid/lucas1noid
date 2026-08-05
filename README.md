@@ -9,7 +9,7 @@
 
   Passionate about technology and always willing to learn. I enjoy breaking down and creating the logic behind algorithms and systems, as well as expressing my creativity; computing is the medium through which I found my    calling.
 
-  ## Linguagens e Tecnologias
+  ## Languages ​​and Technologies
 
   <p>
     <img src="./icons/cpp.svg" alt="C++" width="40" height="40" />
