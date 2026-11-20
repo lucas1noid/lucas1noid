@@ -21,6 +21,7 @@
     <img src="./icons/astro.svg" alt="astro" width="40" height="40" />
     <img src="./icons/node.svg" alt="node" width="40" height="40" />
     <img src="./icons/spring.svg" alt="spring" width="40" height="40" />
+    <img src="./icons/Apptainer_v3.svg" alt="F-singularity" width="40" height="40" />
     <img src="./icons/git.svg" alt="git" width="40" height="40" />
     <img src="./icons/linux.svg" alt="pinguim-cacetudo" width="40" height="40" />
   </p>
