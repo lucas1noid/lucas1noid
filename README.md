@@ -1,13 +1,13 @@
 <div align="center">
   <img src="content/noid-logo-ani-sf.gif" alt="noid logo" width="320" />
 
-  # Hi, I’m Lucas Lopes!
+  # Hi, I’m Lucas "noid" Lopes!
 
   **About me...**
 
   Welcome to my GitHub profile! I am an aspiring software developer currently studying Computer Science at DIMAp - UFRN.
 
-  Passionate about technology and always willing to learn. I enjoy breaking down and creating the logic behind algorithms and systems, as well as expressing my creativity; computing is the medium through which I found my    calling.
+  Passionate about technology and always willing to learn. I enjoy breaking down and creating the logic behind algorithms and systems, as well as expressing my creativity; computing is the medium through which I found my calling.
 
   ## Languages ​​and Technologies
 
